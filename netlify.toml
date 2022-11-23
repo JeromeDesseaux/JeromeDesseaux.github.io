@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "npm i && npm i -g postcss-cli && hugo --gc --minify"
+command = "npm i && npm i -g postcss-cli && npm run build"
 
 [context.production.environment]
 HUGO_VERSION = "0.106.0"
