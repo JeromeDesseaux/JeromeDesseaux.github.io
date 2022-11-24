@@ -1,44 +1,44 @@
 [
   {
-    "name": "Bear Notes",
-    "description": "Quick note taking application on Mac for writing down instant thoughts",
-    "link": "https://bear.app/",
-    "icon": "https://blog.bear.app/wp-content/uploads/2018/10/bear-icon.png",
-    "tag": "Productivity"
+    "name": "Python",
+    "description": "Scripting, webdev, data .. Everything's possible with Python! Prototyping, fast!",
+    "link": "https://www.python.org/",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png",
+    "tag": "Webdev"
   },
   {
-    "name": "Cloudflare",
+    "name": "Java",
     "description": "Place for all my domains on the internet",
-    "link": "https://cloudflare.com",
-    "icon": "",
+    "link": "https://www.java.com/fr/",
+    "icon": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/1200px-Java_Logo.svg.png",
     "tag": "Webdev"
   },
   {
-    "name": "Vercel",
+    "name": "Javascript",
+    "description": "Frontend at a glance (or not).",
+    "link": "https://developer.mozilla.org/fr/docs/Web/JavaScript",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
+    "tag": "Webdev"
+  },
+  {
+    "name": "Docker",
     "description": "Hosts frontend of projects including this website",
-    "link": "https://vercel.com/",
-    "icon": "",
-    "tag": ""
+    "link": "https://www.docker.com/",
+    "icon": "https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png",
+    "tag": "DevOps"
   },
   {
-    "name": "GitHub",
-    "description": "Code hosting for all projects",
+    "name": "Git",
+    "description": "Code versioning for all projects",
     "link": "https://github.com/",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png",
+    "icon": "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png",
     "tag": "Webdev"
   },
   {
-    "name": "iTerm",
-    "description": "A definitely more functional terminal for Mac",
-    "link": "https://iterm2.com/",
-    "icon": "https://icons.iconarchive.com/icons/froyoshark/enkel/256/iTerm-icon.png",
+    "name": "IntelliJ",
+    "description": "The best IDE on earth",
+    "link": "https://www.jetbrains.com/fr-fr/idea/",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png",
     "tag": "Productivity"
-  },
-  {
-    "name": "Figma",
-    "description": "Design tool for all design artifacts and social media handles",
-    "link": "https://www.figma.com/",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg",
-    "tag": "Graphic Design"
   }
 ]
