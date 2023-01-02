@@ -1,9 +1,7 @@
 ---
-title: Apple cream vanilla apple marzipan muffin
+title: Bibliochouette (Web)
 date: 2021-12-16
-images:
-- https://i.picsum.photos/id/12/400/300.jpg?hmac=9zg-xHM_r3ojCFQr7TSxpdObZ1pu3V2Yl2gafwcKcDs
-description: Apple orange tiramisu jelly ipsum sugar. Candy cake orange ipsum orange muffin.
+description: Complete remake of the mobile app using web technologies. Baked using Java & Angular.
 ---
 
 Tiramisu sprinkles marzipan lollipop marzipan dolor. Jelly candy marzipan vanilla candy ipsum. Sugar croissant lollipop vanilla cream marzipan. Sprinkles croissant cream dolor jelly marzipan. 

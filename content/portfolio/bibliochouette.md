@@ -1,9 +1,7 @@
 ---
-title: Pastry jelly cookie sugar donut orange
+title: Bibliochouette (Mobile)
 date: 2021-12-18
-images:
-- https://i.picsum.photos/id/1042/400/300.jpg?hmac=rBcizcYvtdgLbwltE3uU3EWyFbuBGpyy9C2YilmohL0
-description: Sprinkles jelly ipsum sweet biscuit marzipan. Jelly dolor biscuit croissant croissant sweet.
+description: Mobile App (Android / iOS) to manage classroom library (books & loans). Baked using Flutter & Firebase.
 ---
 
 Croissant orange croissant dolor orange croissant. Lollipop biscuit donut vanilla sweet croissant. Apple donut candy tiramisu cream jelly. Croissant sweet cookie vanilla tiramisu dolor.

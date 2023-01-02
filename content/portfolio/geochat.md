@@ -1,9 +1,7 @@
 ---
-title: Cream sugar apple donut apple croissant
+title: Geochat
 date: 2021-12-17
-images:
-- https://i.picsum.photos/id/1081/400/300.jpg?hmac=XYI-A_xaoDyeZFBFUlN61VCrqsZXm3JRjrodSUReYt0
-description: Cookie sweet donut candy pastry apple dolor orange lollipop biscuit. Muffin cream ipsum ipsum sprinkles sugar tiramisu pastry sweet tiramisu. 
+description: Chat based on your current location. Used to create chatrooms during the Covid's 19 lockdown. Using Node.JS & Vue.JS.
 ---
 
 Tiramisu sprinkles marzipan lollipop marzipan dolor. Jelly candy marzipan vanilla candy ipsum. Sugar croissant lollipop vanilla cream marzipan. Sprinkles croissant cream dolor jelly marzipan. 
